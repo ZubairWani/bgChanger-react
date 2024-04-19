@@ -1,1 +1,1 @@
-chnaging background color using different color buttons in react
+practicing bgcolor with different buttons
